@@ -1,0 +1,13 @@
+Previous URL(s) With Info:
+
+URL : https://www.youtube.com/
+Threads : 10
+Time : 18.961530447006226
+Visited Pages : 62
+Links With Errors : 2
+
+URL : https://www.youtube.com/
+Threads : 10
+Time : 32.97850322723389
+Visited Pages : 101
+Links With Errors : 3
